@@ -68,6 +68,9 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 The application will be accessible at `http://localhost:3000` by default.
 
+![Screenshot 2024-02-02 203405](https://github.com/kalaiyarasanm-12/survey-master/assets/90094168/6ec93269-a8df-42c4-a55f-99b5ef7652df)
+
+
 ## Usage
 
 1. Create a survey by adding questions through the user-friendly interface.
