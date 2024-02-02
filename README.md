@@ -53,12 +53,10 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```bash
    cd surveymaster-react
    ```
-6. Install dependencies for FrontEnd:
-
-   ```bash
+6. Install dependencies for FrontEnd: ```bash
    npm install
    ```
-7.Start FrontEnd:
+7. Start FrontEnd:
 
    ```bash
    npm start
