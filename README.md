@@ -32,16 +32,33 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
    ```bash
    cd survey-master
-   cd 
    ```
-
-3. Install dependencies:
+3. Navigate to  BackEnd:
+   ```bash
+   cd SurveyMaster-Backend
+   ```
+3. Install dependencies for BackEnd:
 
    ```bash
    npm install
    ```
 
-4. Start the application:
+4. Start BackEnd:
+
+   ```bash
+   npm start
+   ```
+5. Navigate to FrontEnd:
+   Open in another Terminal
+   ```bash
+   cd surveymaster-react
+   ```
+6. Install dependencies for FrontEnd:
+
+   ```bash
+   npm install
+   ```
+7.Start FrontEnd:
 
    ```bash
    npm start
